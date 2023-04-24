@@ -1,4 +1,5 @@
 const sayHello = require('./local/index');
-require('./local/add');
+const add = require('./local/add');
 
 console.log(sayHello('Naruto'));
+console.log(add(1,2));
