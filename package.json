@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/mmkvdev/nodeSnippets#readme",
   "dependencies": {
+    "@i-xi-dev/uuid": "^3.0.4",
     "express": "^4.17.1",
-    "lodash": "^4.17.21"
+    "html-pdf": "^3.0.1",
+    "lodash": "^4.17.21",
+    "pdfjs-dist": "^3.5.141",
+    "pdfjs-dist-es5": "^2.13.216"
   }
 }
