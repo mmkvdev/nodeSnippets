@@ -1,5 +1,5 @@
 // imports
-const { add, subtract } = require('./math');
+const { add, subtract } = require('./exports');
 
 // code
 console.log({ sum: add(2,3) });
